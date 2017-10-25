@@ -8,7 +8,7 @@ MAINTAINER litao <litao_worker@163.com>
 RUN apt update \
     && apt install -y python3 \
     && apt install -y python3-pip \
-    && rm -rf /var/lib/apt/lists/* \
+    && rm -rf /var/lib/apt/lists/* 
 
 RUN mkdir -p /app
 WORKDIR /app
