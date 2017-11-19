@@ -1,0 +1,13 @@
+beautifulsoup4==4.6.0
+Flask==0.12.2
+Flask-Bootstrap==3.3.7.1
+Flask-Moment==0.5.2
+Flask-Script==2.0.6
+Flask-SQLAlchemy==1.0
+Flask-WTF==0.14.2
+Jinja2==2.9.6
+lxml==3.8.0
+PyMySQL==0.7.11
+requests==2.18.3
+SQLAlchemy==1.1.14
+WTForms==2.1
